@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: jessie
+Date: Thu, 17 May 2018 21:37:52 UTC
+Architectures: armhf
+Components: main
+MD5Sum:
+ aba169230bb0912f02e8b86485c53dce 617 main/binary-armhf/Packages
+ dee47006f3fa797e72b77a1746d1a5ea 430 main/binary-armhf/Packages.gz
+ 12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
+SHA1:
+ 9c1d5f5a39be39a92a3d11daf50eaba0d133aecf 617 main/binary-armhf/Packages
+ 66c6b2e779dbd753e6c029f815b108e21afaaf06 430 main/binary-armhf/Packages.gz
+ 4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
+SHA256:
+ ed567643cbf6b95d86023c9b02f62aac8a32db87ec649f8eb1118109f85a4944 617 main/binary-armhf/Packages
+ 23acc31895292bda2dccdd60a6e3105a63a8f259b2ce73bd6c63d46404280b5c 430 main/binary-armhf/Packages.gz
+ adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEELMm4D1rit6zv8royCRRvL3lTpFUFAlr99jQACgkQCRRvL3lT
+pFXZTxAAgqmzoABmaoSBE/xPgnynHOFFHWVM257rhJs8Kgb9DEVQ6cG82lMuL6HB
+ltfHl+8yeZZDPzKpVFrxuqjI2mOVXPZs2wsYbDwC8Dp2W77XZrj4rpMSOv7JubLW
+TnUcdeRp4kCy5repp4l/xx3OI7ebNs3il8VHQWyO3NXJoTX6CezWrvfPJIClXX/+
+3zZfe8cBSFmf38L36t29T6RbrbhVVhV9Plbi1wCIRzcfbNwpvxhasQd1s93js/GV
+M7DXS7UvzgTEngqWW9fezBjgboHzVWUWW+VrGuuuMvuBm8MDaiFRc52cWR2F3xvq
+dPz8cw47vuqIPeCz0EtjWReIviDUaDxZH2yRlxzV9xsnMpUteIPfJ07wPCagKea4
+ZAYiB3fCS8T2d7zfKutrwE/cVngMJAuR6kniU+eMQk6TJtQyxT17OBOkDblsyfAh
++3OEf8C2JqoxrkM+nVTi0DVMsDsChTibhsPhe16Lrh4UZiG4i2wqbKvfI/LxQyin
+efu8+TmDYhnfGfjP4N5E0wjgSwODplCEVSy0HUO+3wbEO6aSr4bK5jxxYkrGxGRg
+98Nmer703Txy5kvBY+WJ7dSbxcb5yKP0izRZg843ucrAwIE6LHRQ3IwVtxmd7+pc
+h6upF6MmZmJwCZTHhevj1fL1QmD/Y2lvx3VYQZcf2UF5TSHYdvI=
+=wmBl
+-----END PGP SIGNATURE-----
